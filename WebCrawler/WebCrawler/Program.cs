@@ -11,7 +11,7 @@ namespace WebCrawler
     {
         static void Main(string[] args)
         {
-            HtmlWeb web = new HtmlWeb();
+            HtmlWeb web = new HtmlWeb(); 
             HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             doc = web.Load("https://vnexpress.net/du-lich");
         }
