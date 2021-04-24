@@ -1,0 +1,14 @@
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CopyComplete
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\sangn\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache

@@ -13,7 +13,7 @@ namespace WebCrawler
         {
             HtmlWeb web = new HtmlWeb(); 
             HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
-            doc = web.Load("https://vnexpress.net/du-lich");
+            doc = web.Load("https://vnexpress.net/thoi-su");
         }
     }
 }

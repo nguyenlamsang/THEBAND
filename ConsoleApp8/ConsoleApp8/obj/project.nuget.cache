@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6FwXPbsR6hpVXVjGjQZJaywkJ8HafVU1jKJkxJNvBn4njbV8Ws9KzpO9Ovyp6g1bTkXv/PjlU2uUf6FFaEKvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sangn\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sangn\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}
